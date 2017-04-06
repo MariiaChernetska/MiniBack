@@ -1,0 +1,8 @@
+USE [NarrowHands]
+
+INSERT INTO Videos (ID, UserID, Title, Path, ScreenShot, DateAdded)
+VALUES(NEWID(), '2AE2CE6A-CEB8-441B-B50D-F6A1A9021C60', 'TestVideo', '', '', GETUTCDATE())
+
+INSERT INTO Ratings(ID, UserID, VideoID, Comment, Rating, DateAdded)
+VALUES(NEWID(), '2AE2CE6A-CEB8-441B-B50D-F6A1A9021C60', 'D5D27DB4-32E8-4C5F-AE27-0F2E7EAC138D',
+ 'TestVideoComment', 4, GETUTCDATE())

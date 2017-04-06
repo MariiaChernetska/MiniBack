@@ -1,0 +1,84 @@
+3/11/2017 9:40:49 PM	This log contains information about the import schema operation into project 'MiniUtubeDb' on computer 'DESKTOP-MB6GSTP' by user 'maria'.
+3/11/2017 9:40:49 PM	Import of database schema has started.
+3/11/2017 9:40:55 PM	Gathering database credentials
+3/11/2017 9:40:55 PM	Gathering database options
+3/11/2017 9:40:55 PM	Gathering users
+3/11/2017 9:40:55 PM	Gathering roles
+3/11/2017 9:40:55 PM	Gathering application roles
+3/11/2017 9:40:55 PM	Gathering role memberships
+3/11/2017 9:40:55 PM	Gathering filegroups
+3/11/2017 9:40:55 PM	Gathering full-text catalogs
+3/11/2017 9:40:55 PM	Gathering assemblies
+3/11/2017 9:40:55 PM	Gathering certificates
+3/11/2017 9:40:55 PM	Gathering asymmetric keys
+3/11/2017 9:40:55 PM	Gathering symmetric keys
+3/11/2017 9:40:55 PM	Gathering encrypted symmetric keys
+3/11/2017 9:40:55 PM	Gathering schemas
+3/11/2017 9:40:55 PM	Gathering XML schema collections
+3/11/2017 9:40:55 PM	Gathering user-defined data types
+3/11/2017 9:40:55 PM	Gathering user-defined types
+3/11/2017 9:40:55 PM	Gathering table types
+3/11/2017 9:40:55 PM	Gathering unique keys for table types
+3/11/2017 9:40:55 PM	Gathering primary keys for table types
+3/11/2017 9:40:55 PM	Gathering indexes for table types
+3/11/2017 9:40:55 PM	Gathering check constraints for table types
+3/11/2017 9:40:55 PM	Gathering default constraints for table types
+3/11/2017 9:40:55 PM	Gathering partition functions
+3/11/2017 9:40:55 PM	Gathering partition schemes
+3/11/2017 9:40:55 PM	Gathering functions
+3/11/2017 9:40:55 PM	Gathering encrypted functions
+3/11/2017 9:40:55 PM	Gathering aggregates
+3/11/2017 9:40:55 PM	Gathering procedures
+3/11/2017 9:40:55 PM	Gathering encrypted procedures
+3/11/2017 9:40:55 PM	Gathering tables
+3/11/2017 9:40:55 PM	Gathering primary keys
+3/11/2017 9:40:55 PM	Gathering unique constraints
+3/11/2017 9:40:55 PM	Gathering foreign keys
+3/11/2017 9:40:55 PM	Gathering default constraints
+3/11/2017 9:40:55 PM	Gathering check constraints
+3/11/2017 9:40:55 PM	Gathering views
+3/11/2017 9:40:55 PM	Gathering encrypted views
+3/11/2017 9:40:56 PM	Gathering indexes
+3/11/2017 9:40:56 PM	Gathering statistics
+3/11/2017 9:40:56 PM	Gathering full-text index stoplists
+3/11/2017 9:40:56 PM	Gathering search property lists
+3/11/2017 9:40:56 PM	Gathering search properties
+3/11/2017 9:40:56 PM	Gathering full-text indexes
+3/11/2017 9:40:56 PM	Gathering column store indexes
+3/11/2017 9:40:56 PM	Gathering spatial indexes
+3/11/2017 9:40:56 PM	Gathering XML indexes
+3/11/2017 9:40:56 PM	Gathering Selective XML indexes
+3/11/2017 9:40:56 PM	Gathering encrypted triggers
+3/11/2017 9:40:56 PM	Gathering triggers
+3/11/2017 9:40:56 PM	Gathering encrypted and clr ddl triggers
+3/11/2017 9:40:56 PM	Gathering ddl triggers
+3/11/2017 9:40:56 PM	Gathering synonyms
+3/11/2017 9:40:56 PM	Gathering defaults
+3/11/2017 9:40:56 PM	Gathering data constraint uddt bindings
+3/11/2017 9:40:56 PM	Gathering rules
+3/11/2017 9:40:56 PM	Gathering data constraint uddt bindings
+3/11/2017 9:40:56 PM	Gathering message types
+3/11/2017 9:40:56 PM	Gathering queues
+3/11/2017 9:40:56 PM	Gathering contracts
+3/11/2017 9:40:56 PM	Gathering services
+3/11/2017 9:40:56 PM	Gathering event notifications
+3/11/2017 9:40:56 PM	Gathering remote service bindings
+3/11/2017 9:40:56 PM	Gathering broker priorities
+3/11/2017 9:40:56 PM	Gathering signatures
+3/11/2017 9:40:56 PM	Gathering data compression options
+3/11/2017 9:40:56 PM	Gathering sequence types
+3/11/2017 9:40:56 PM	Gathering security policies
+3/11/2017 9:40:56 PM	Gather column encryption keys
+3/11/2017 9:40:56 PM	Gathering column master keys
+3/11/2017 9:40:56 PM	Gathering external data sources
+3/11/2017 9:40:56 PM	Gathering external file formats
+3/11/2017 9:40:56 PM	Gathering external tables
+3/11/2017 9:40:56 PM	Gathering extended properties
+3/11/2017 9:40:56 PM	Gathering credentials
+3/11/2017 9:40:56 PM	Gathering logins
+3/11/2017 9:40:56 PM	Gathering server audits
+3/11/2017 9:40:56 PM	Scanning project for duplicate elements
+3/11/2017 9:40:56 PM	Finished duplicate element processing
+3/11/2017 9:40:57 PM	Finished importing database.
+3/11/2017 9:40:57 PM	A summary of the import was saved to the following location: C:\DelphiFinal\ProcTest\MiniUtubeDb\Import Schema Logs\MiniUtubeDb_20170311074049.log
+3/11/2017 9:40:57 PM	Click Finish to continue...

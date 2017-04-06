@@ -1,0 +1,84 @@
+3/16/2017 10:20:37 PM	This log contains information about the import schema operation into project 'Database2' on computer 'DESKTOP-MB6GSTP' by user 'maria'.
+3/16/2017 10:20:38 PM	Import of database schema has started.
+3/16/2017 10:20:43 PM	Gathering database credentials
+3/16/2017 10:20:43 PM	Gathering database options
+3/16/2017 10:20:43 PM	Gathering users
+3/16/2017 10:20:43 PM	Gathering roles
+3/16/2017 10:20:43 PM	Gathering application roles
+3/16/2017 10:20:43 PM	Gathering role memberships
+3/16/2017 10:20:43 PM	Gathering filegroups
+3/16/2017 10:20:43 PM	Gathering full-text catalogs
+3/16/2017 10:20:43 PM	Gathering assemblies
+3/16/2017 10:20:43 PM	Gathering certificates
+3/16/2017 10:20:43 PM	Gathering asymmetric keys
+3/16/2017 10:20:43 PM	Gathering symmetric keys
+3/16/2017 10:20:43 PM	Gathering encrypted symmetric keys
+3/16/2017 10:20:43 PM	Gathering schemas
+3/16/2017 10:20:44 PM	Gathering XML schema collections
+3/16/2017 10:20:44 PM	Gathering user-defined data types
+3/16/2017 10:20:44 PM	Gathering user-defined types
+3/16/2017 10:20:44 PM	Gathering table types
+3/16/2017 10:20:44 PM	Gathering unique keys for table types
+3/16/2017 10:20:44 PM	Gathering primary keys for table types
+3/16/2017 10:20:44 PM	Gathering indexes for table types
+3/16/2017 10:20:44 PM	Gathering check constraints for table types
+3/16/2017 10:20:44 PM	Gathering default constraints for table types
+3/16/2017 10:20:44 PM	Gathering partition functions
+3/16/2017 10:20:44 PM	Gathering partition schemes
+3/16/2017 10:20:44 PM	Gathering functions
+3/16/2017 10:20:44 PM	Gathering encrypted functions
+3/16/2017 10:20:44 PM	Gathering aggregates
+3/16/2017 10:20:44 PM	Gathering procedures
+3/16/2017 10:20:44 PM	Gathering encrypted procedures
+3/16/2017 10:20:44 PM	Gathering tables
+3/16/2017 10:20:44 PM	Gathering primary keys
+3/16/2017 10:20:44 PM	Gathering unique constraints
+3/16/2017 10:20:44 PM	Gathering foreign keys
+3/16/2017 10:20:44 PM	Gathering default constraints
+3/16/2017 10:20:44 PM	Gathering check constraints
+3/16/2017 10:20:44 PM	Gathering views
+3/16/2017 10:20:44 PM	Gathering encrypted views
+3/16/2017 10:20:44 PM	Gathering indexes
+3/16/2017 10:20:44 PM	Gathering statistics
+3/16/2017 10:20:44 PM	Gathering full-text index stoplists
+3/16/2017 10:20:44 PM	Gathering search property lists
+3/16/2017 10:20:44 PM	Gathering search properties
+3/16/2017 10:20:44 PM	Gathering full-text indexes
+3/16/2017 10:20:44 PM	Gathering column store indexes
+3/16/2017 10:20:44 PM	Gathering spatial indexes
+3/16/2017 10:20:44 PM	Gathering XML indexes
+3/16/2017 10:20:44 PM	Gathering Selective XML indexes
+3/16/2017 10:20:44 PM	Gathering encrypted triggers
+3/16/2017 10:20:44 PM	Gathering triggers
+3/16/2017 10:20:44 PM	Gathering encrypted and clr ddl triggers
+3/16/2017 10:20:44 PM	Gathering ddl triggers
+3/16/2017 10:20:44 PM	Gathering synonyms
+3/16/2017 10:20:44 PM	Gathering defaults
+3/16/2017 10:20:44 PM	Gathering data constraint uddt bindings
+3/16/2017 10:20:44 PM	Gathering rules
+3/16/2017 10:20:44 PM	Gathering data constraint uddt bindings
+3/16/2017 10:20:44 PM	Gathering message types
+3/16/2017 10:20:44 PM	Gathering queues
+3/16/2017 10:20:44 PM	Gathering contracts
+3/16/2017 10:20:44 PM	Gathering services
+3/16/2017 10:20:44 PM	Gathering event notifications
+3/16/2017 10:20:44 PM	Gathering remote service bindings
+3/16/2017 10:20:44 PM	Gathering broker priorities
+3/16/2017 10:20:44 PM	Gathering signatures
+3/16/2017 10:20:44 PM	Gathering data compression options
+3/16/2017 10:20:44 PM	Gathering sequence types
+3/16/2017 10:20:44 PM	Gathering security policies
+3/16/2017 10:20:44 PM	Gather column encryption keys
+3/16/2017 10:20:44 PM	Gathering column master keys
+3/16/2017 10:20:44 PM	Gathering external data sources
+3/16/2017 10:20:44 PM	Gathering external file formats
+3/16/2017 10:20:44 PM	Gathering external tables
+3/16/2017 10:20:44 PM	Gathering extended properties
+3/16/2017 10:20:44 PM	Gathering credentials
+3/16/2017 10:20:44 PM	Gathering logins
+3/16/2017 10:20:44 PM	Gathering server audits
+3/16/2017 10:20:44 PM	Scanning project for duplicate elements
+3/16/2017 10:20:44 PM	Finished duplicate element processing
+3/16/2017 10:20:44 PM	Finished importing database.
+3/16/2017 10:20:44 PM	A summary of the import was saved to the following location: C:\DelphiFinal\ProcTest\Database2\Import Schema Logs\Database2_20170316082037.log
+3/16/2017 10:20:44 PM	Click Finish to continue...
